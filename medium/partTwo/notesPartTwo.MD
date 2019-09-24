@@ -31,5 +31,7 @@ annexeFunction.defaultParams
 
 
 ### Arrow Functions
+- Same as functions, but reformated using new syntax
+
 
 annexeFunction.arrowFunction
