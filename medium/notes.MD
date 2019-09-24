@@ -1,3 +1,5 @@
+<!-- https://medium.com/angularmedellin/a-brief-introduction-to-typescript-part-1-ceedb3e9b1c0 -->
+
 ## How does it work?
 
 - Typescript needs to have its syntax transpiled into standard Javascript.
