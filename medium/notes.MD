@@ -17,3 +17,44 @@ annexeOne.ex1
 - The type will be inferred during execution.
 
 annexeOne.ex2
+
+
+### Static Types
+
+- Typescript adds optional static types to Javascript, you can declare a typed variable:
+
+annexeOne.ex3
+
+- The transpiler would alert us of this error with a message like: Type 'number' is not assignable to type 'string'.
+- Typescript supports most of Javascript types, Typescript will even infer non-declared types during the transpiling
+
+annexeOne.ex4
+
+
+#### Boolean
+
+annexeTypes.boolean
+
+#### Number
+
+annexeTypes.number
+
+
+#### String
+
+annexeTypes.string
+
+
+#### Array
+
+annexeTypes.array
+
+
+#### Enum
+
+annexeTypes.enum
+
+
+#### Any and Void
+
+annexeTypes.anyVoid
